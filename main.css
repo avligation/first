@@ -5,6 +5,8 @@ li, button{
     font-size: 16px;
     color: #edf0f1;
     text-decoration: none;
+
+    
 }
 header{
     background-color: linear-gradient(349deg, rgba(2,0,36,1) 0%, rgba(1,1,149,0.8796296296296297) 60%, rgba(4,126,150,1) 100%);;
